@@ -15,4 +15,4 @@ cache:
 
 
 script:
-  - ./gradlew build
+  - gradle --project-dir ./src/metry build
