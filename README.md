@@ -1,6 +1,9 @@
 # metry
 Apache Spark metrics sink to simple TCP / HTTP server, it sends JSON encoded data.
 
+## Status
+[![Build Status](https://travis-ci.org/ebuildy/metry.png)](https://travis-ci.org/ebuildy/metry)
+
 ## Data sample
 
 ```
